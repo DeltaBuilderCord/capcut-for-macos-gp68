@@ -1,4 +1,4 @@
-
+new CapCut for macOS Script | audio-cleanup + version-history is the best CapCut for macOS script, featuring audio-cleanup and version-history. Safe, efficient, and optimized for
 
 
 
